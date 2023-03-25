@@ -21,3 +21,4 @@ public enum BattleType implements Serializable
         return type;
     }
 }
+// this is for practice purposes
